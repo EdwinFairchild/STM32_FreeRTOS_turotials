@@ -1,3 +1,5 @@
-main_app.c:4:6:main_app	16	static
-main_app.c:14:6:printMsg	72	static
-main_app.c:32:13:blinkLed	8	static
+main_app.c:8:6:main_app	24	static
+main_app.c:30:13:hello_task	24	static
+main_app.c:40:13:led_task	16	static
+main_app.c:52:6:printMsg	72	static
+main_app.c:71:13:blinkLed	8	static

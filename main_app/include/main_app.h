@@ -6,6 +6,10 @@
 #include "stdarg.h"
 #include "string.h"
 #include "stdint.h"
+#include "FreeRTOS.h"
+#include "task.h"
+//#include "timers.h"
+//#include "semphr.h"
 void main_app(void);
 
 
